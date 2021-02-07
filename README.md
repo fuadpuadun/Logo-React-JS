@@ -8,3 +8,6 @@ How To Run
 1. Install Library graphics.h on your CodeBlocks IDE Properly
 2. Run CG.cbp
 3. Voila !
+
+Notes
+1. Code saved as a C++ Code, but the code inside was run and made using C.
